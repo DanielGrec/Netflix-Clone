@@ -1,6 +1,6 @@
 # Netflix Clone
 
-This is a clone of Netflix's landing page.\
+This is a clone of Netflix's landing page.
 
 It is done with HTML, CSS and JavaScript.
 
