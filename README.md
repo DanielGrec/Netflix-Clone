@@ -6,4 +6,4 @@ It is done with HTML, CSS and JavaScript.
 
 Fully responsive on mobile as this was my main goal with this project.
 
-<a href="">Live Preview</a>
+<a href="https://danielgrec.github.io/Netflix-Clone/">Live Preview</a>
